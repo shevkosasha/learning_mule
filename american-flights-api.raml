@@ -24,6 +24,8 @@ types:
     body:
       application/json:
         type: AmericanFlight
+        examples:
+          input: !include /examples/AmericanFlightNoIDExample.raml
   
   /{ID}:
     get:
