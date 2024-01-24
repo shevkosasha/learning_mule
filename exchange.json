@@ -13,7 +13,7 @@
       "provided": false
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "descriptorVersion": "1.0.0",
   "classifier": "raml",
   "main": "american-flights-api.raml",
